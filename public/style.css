@@ -18,6 +18,7 @@ main {
 
 main > h1 {
     text-align: center;
+    padding: 25px;
     color: #fff;
     margin-bottom: 2rem;
     font-size: 2rem;
